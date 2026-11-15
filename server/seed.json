@@ -1,0 +1,221 @@
+{
+  "posts": [
+    {
+      "id": "demo-welcome",
+      "title": "欢迎使用 Xblog：示范页面",
+      "summary": "这是唯一保留的示范内容，可在后台直接编辑。",
+      "youtubeId": "",
+      "category": "示范",
+      "date": "2026-11-01",
+      "tags": [
+        "示范"
+      ],
+      "views": "0",
+      "duration": "图文",
+      "content": "<h2>开始写作</h2><p>进入后台，使用可视化编辑器撰写文章、插入图片和表格。</p><h2>自定义站点</h2><p>首页、关于、法律声明、导航与页脚都可在后台修改。</p>",
+      "contentFormat": "html",
+      "displayConfig": {
+        "contentFormat": "html",
+        "coverType": "custom",
+        "customCoverUrl": "assets/gradient-light.svg",
+        "topDisplayMode": "cover",
+        "showComments": true,
+        "showToc": true,
+        "showAd": false
+      },
+      "externalLinks": []
+    }
+  ],
+  "homeIntro": {
+    "channelName": "Xblog",
+    "handle": "@yourname",
+    "badge": "BLOG",
+    "slogan": "记录与分享",
+    "bio": "欢迎来到我的博客。所有内容均可在后台编辑。",
+    "stats": [],
+    "domains": [],
+    "projects": [],
+    "featuredPostIds": [
+      "demo-welcome"
+    ]
+  },
+  "ads": {},
+  "settings": {
+    "siteName": "Xblog",
+    "siteSub": "我的博客",
+    "avatarUrl": "assets/gradient-light.svg",
+    "adminUser": "admin",
+    "adminPass": "password",
+    "currentTheme": "tech",
+    "aiApiKey": "",
+    "youtubeUrl": "",
+    "tgUrl": "",
+    "githubUrl": "",
+    "emailContact": ""
+  },
+  "comments": [],
+  "adTokens": [],
+  "themes": [
+    {
+      "id": "tech",
+      "name": "瞎折腾黑客绿 (默认)",
+      "badge": "原汁原味",
+      "desc": "延续瞎折腾看数据硬核深色极简风，黑绿荧光终端，黑客代码雨与 CRT 扫描线专属启动。",
+      "primary": "#b7f568",
+      "bg": "#090d13",
+      "card": "#10161f",
+      "animName": "Matrix 扫描线启动"
+    },
+    {
+      "id": "cyber",
+      "name": "赛博朋克 2077 霓虹",
+      "badge": "潮流冲击",
+      "desc": "高对比青粉双色霓虹辉光，深邃暗紫背景，RGB 色散故障风专属跳转动效。",
+      "primary": "#00f0ff",
+      "secondary": "#ff007f",
+      "bg": "#0c0714",
+      "card": "#181028",
+      "animName": "全息色彩抖动 (Glitch)"
+    },
+    {
+      "id": "github",
+      "name": "GitHub Dark 极客暗黑",
+      "badge": "开发者首选",
+      "desc": "经典 GitHub 暗色系，Octocat 极客代码折叠，优雅沉稳的 Commit 分支平滑展开动画。",
+      "primary": "#58a6ff",
+      "bg": "#0d1117",
+      "card": "#161b22",
+      "animName": "Git Commit 脉冲展开"
+    },
+    {
+      "id": "notion",
+      "name": "Notion 简约纸白",
+      "badge": "清爽护眼",
+      "desc": "米白色温润纸质质感，清晰排版，专属水墨墨晕淡入与轻质卡片翻页过渡效果。",
+      "primary": "#2eaadc",
+      "bg": "#f7f6f3",
+      "card": "#ffffff",
+      "animName": "水墨浸润 (Ink Bleed)"
+    },
+    {
+      "id": "dracula",
+      "name": "Dracula 德古拉暮光紫",
+      "badge": "神秘优雅",
+      "desc": "经典德古拉吸血鬼主题，天鹅绒暮光紫黑配合薄荷荧光，薄雾星芒专属微粒动效。",
+      "primary": "#bd93f9",
+      "secondary": "#50fa7b",
+      "bg": "#282a36",
+      "card": "#383a59",
+      "animName": "德古拉暮光迷雾"
+    }
+  ],
+  "headerFooter": {
+    "brandTitle": "Xblog",
+    "brandBadge": "BLOG",
+    "navHomeText": "首页",
+    "navBlogText": "博客",
+    "navAdminText": "后台",
+    "youtubeUrl": "#",
+    "tgUrl": "#",
+    "githubUrl": "#",
+    "emailContact": "contact@example.com",
+    "adsContactUrl": "#",
+    "adsContactText": "联系",
+    "footerCopyright": "© Xblog"
+  },
+  "memberLevels": {
+    "guest": {
+      "name": "游客",
+      "desc": "未登录访客，享有全站文章阅读与评论权限",
+      "badgeColor": "#94a3b8",
+      "canComment": true
+    },
+    "member": {
+      "name": "志同道合",
+      "desc": "登录会员，尊享「志同道合」专属认证徽章与评论标识",
+      "badgeColor": "#4ade80",
+      "canComment": true
+    },
+    "admin": {
+      "name": "站长 · 管理员",
+      "desc": "博客创始人与超级管理员，拥有全站全部模块独立管理权限",
+      "badgeColor": "#ffd700",
+      "canComment": true
+    }
+  },
+  "guestKeywords": {
+    "prefixes": [
+      "沉迷",
+      "玩转",
+      "优选",
+      "解锁",
+      "搭建",
+      "编译",
+      "精简",
+      "折腾",
+      "爆改",
+      "研究",
+      "秒开"
+    ],
+    "nouns": [
+      "HyperOS",
+      "8K节点",
+      "黑苹果",
+      "软路由",
+      "SmartTV",
+      "KernelSU",
+      "Docker",
+      "Magisk",
+      "晶晨盒子",
+      "CUPS打印",
+      "OpenCore",
+      "WLOC定位"
+    ],
+    "personas": [
+      "折腾党",
+      "极客",
+      "老司机",
+      "骇客",
+      "工程师",
+      "刷机狂",
+      "发烧友",
+      "极客猫",
+      "技术宅",
+      "极客虾"
+    ],
+    "avatarStyle": "bottts"
+  },
+  "googleAuth": {},
+  "users": [],
+  "oauthConfig": {},
+  "aboutPage": {
+    "title": "关于本站",
+    "subtitle": "个人博客",
+    "storyTitle": "欢迎",
+    "storyContent": "这是示范介绍，请在后台替换。",
+    "principles": [],
+    "milestones": []
+  },
+  "legalDocs": {
+    "terms": {
+      "title": "服务条款",
+      "updated": "2026-11-01",
+      "sections": []
+    },
+    "privacy": {
+      "title": "隐私政策",
+      "updated": "2026-11-01",
+      "sections": []
+    },
+    "disclaimer": {
+      "title": "免责声明",
+      "updated": "2026-11-01",
+      "sections": []
+    },
+    "license": {
+      "title": "开源许可",
+      "updated": "2026-11-01",
+      "sections": []
+    }
+  }
+}

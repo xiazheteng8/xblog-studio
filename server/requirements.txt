@@ -1,0 +1,2 @@
+# Optional for YouTube metadata, captions and low-resolution video analysis.
+yt-dlp>=2025.1.26

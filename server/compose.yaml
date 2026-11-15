@@ -1,0 +1,11 @@
+services:
+  xblog:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8080:8080"
+    volumes:
+      - ./data:/app/data
+    environment:
+      PORT: "8080"
+      BLOG_SKIP_DEMO_USERS: "1"
