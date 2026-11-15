@@ -1,6 +1,6 @@
 # 瞎折腾博客 · Pages 部署教程
 
-[GitHub Pages 示范站点](https://xiazheteng8.github.io/xblog-studio/) · [VPS 示范站点](https://xiazheteng.fun/) · [YouTube @xiazheteng8](https://www.youtube.com/@xiazheteng8) · [Telegram @xiazheteng8](https://t.me/xiazheteng8)
+[GitHub Pages 示范站点](https://xiazheteng8.github.io/xblog-studio/) · [Cloudflare Pages 示范站点](https://xiazheteng-blog.pages.dev/) · [VPS 示范站点](https://xiazheteng.fun/) · [YouTube @xiazheteng8](https://www.youtube.com/@xiazheteng8) · [Telegram @xiazheteng8](https://t.me/xiazheteng8)
 
 [返回本地 / VPS 教程](README.md)
 
