@@ -1,8 +1,12 @@
 # 瞎折腾博客
 
-[VPS 示范站点](https://xiazheteng.fun/) · [YouTube @xiazheteng8](https://www.youtube.com/@xiazheteng8) · [Telegram @xiazheteng8](https://t.me/xiazheteng8)
+[GitHub Pages 示范站点](https://xiazheteng8.github.io/xblog-studio/) · [VPS 示范站点](https://xiazheteng.fun/) · [YouTube @xiazheteng8](https://www.youtube.com/@xiazheteng8) · [Telegram @xiazheteng8](https://t.me/xiazheteng8)
 
 [跳到 GitHub Pages / Cloudflare Pages 教程](README-PAGES.md)
+
+## 初始账号与密码
+
+自己新部署时，后台入口为 /#admin，源码默认账号为 `admin`，默认密码为 `password`。首次登录后请立即修改密码，公网部署前确认新密码已生效。
 
 ## 1. 准备源码
 
